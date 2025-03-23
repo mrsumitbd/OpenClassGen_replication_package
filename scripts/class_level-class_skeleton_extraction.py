@@ -132,7 +132,7 @@ def class_skeleton_extractor():
     fail_log_dict = {}
     successful_process_logger = open(f"{path_to_data}/metadata_folder/skeleton_extraction_success.log", 'a')
     successful_process_logger.write("repo,number_classes,number_of_processed_classes\n")
-    for repo in unique_projects[412:5000]:
+    for repo in unique_projects:
         success_counter = 0
         proj_df = full_class_df[full_class_df["repo_name"] == repo]
         proj_df.drop_duplicates(keep='last', inplace=True)

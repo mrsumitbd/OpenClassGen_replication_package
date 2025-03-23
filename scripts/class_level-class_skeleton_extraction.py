@@ -3,13 +3,13 @@ pd.options.mode.chained_assignment = None  # default='warn'
 import os, ast, subprocess, re, autopep8, time
 import numpy as np
 
-path_to_data = os.path.realpath(os.path.join(os.path.dirname(__file__), '..', 'data'))
+path_to_metadata = os.path.realpath(os.path.join(os.path.dirname(__file__), '.', 'metadata'))
 
 
 def combine_understand_reports():
     report_file_list = []
 
-    und_analysis_df = pd.read_csv(f"{path_to_data}/metadata_folder/file_mapping_with_analysis_status.csv") # read this df for filtering out the projects that exists on GitHub
+    und_analysis_df = pd.read_csv(f"{path_to_metadata}/file_mapping_with_analysis_status.csv") # read this df for filtering out the projects that exists on GitHub
     und_analysis_df = und_analysis_df[und_analysis_df['analysis_status'] == 'Successfull'] # keeping the ones that the "Successfull" status
 
     for idx, row in und_analysis_df.iterrows():
@@ -130,7 +130,7 @@ def class_skeleton_extractor():
     full_data_list = []
     fail_counter = 0
     fail_log_dict = {}
-    successful_process_logger = open(f"{path_to_data}/metadata_folder/skeleton_extraction_success.log", 'a')
+    successful_process_logger = open(f"{path_to_metadata}/skeleton_extraction_success.log", 'a')
     successful_process_logger.write("repo,number_classes,number_of_processed_classes\n")
     for repo in unique_projects:
         success_counter = 0
@@ -174,7 +174,7 @@ def class_skeleton_extractor():
 
 
     if len(fail_log_dict) > 0:
-        error_file = open(f"{path_to_data}/metadata_folder/skeleton_extraction_failures.log", "a")
+        error_file = open(f"{path_to_metadata}/skeleton_extraction_failures.log", "a")
         for key, value in fail_log_dict.items():
             error_file.write(f"{key}: {value}\n")
         error_file.close()
@@ -193,4 +193,4 @@ if __name__ == "__main__":
         if skeleton_df[col].dtype == object:
             skeleton_df[col] = skeleton_df[col].apply(
                 lambda x: np.nan if x == np.nan else str(x).encode('utf-8', 'replace').decode('utf-8'))
-    skeleton_df.to_csv(f"{path_to_data}/metadata_folder/extracted_class_skeletons.csv", index=False)
+    skeleton_df.to_csv(f"{path_to_metadata}/extracted_class_skeletons.csv", index=False) # saving full dataset in one csv. breaking down this csv into multiple chunks of .gz files (as in the ../data/ folder was done as post-processing so that we can upload the data into GitHub

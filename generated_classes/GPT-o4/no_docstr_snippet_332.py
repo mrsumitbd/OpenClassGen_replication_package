@@ -1,0 +1,55 @@
+class Ui_DialogModulation(object):
+    def setupUi(self, DialogModulation):
+        DialogModulation.setObjectName("DialogModulation")
+        DialogModulation.resize(400, 180)
+        self.verticalLayout = QtWidgets.QVBoxLayout(DialogModulation)
+        self.verticalLayout.setObjectName("verticalLayout")
+        self.formLayout = QtWidgets.QFormLayout()
+        self.formLayout.setObjectName("formLayout")
+        self.labelModType = QtWidgets.QLabel(DialogModulation)
+        self.labelModType.setObjectName("labelModType")
+        self.formLayout.setWidget(0, QtWidgets.QFormLayout.LabelRole, self.labelModType)
+        self.comboModType = QtWidgets.QComboBox(DialogModulation)
+        self.comboModType.setObjectName("comboModType")
+        self.formLayout.setWidget(0, QtWidgets.QFormLayout.FieldRole, self.comboModType)
+        self.labelFrequency = QtWidgets.QLabel(DialogModulation)
+        self.labelFrequency.setObjectName("labelFrequency")
+        self.formLayout.setWidget(1, QtWidgets.QFormLayout.LabelRole, self.labelFrequency)
+        self.spinFrequency = QtWidgets.QDoubleSpinBox(DialogModulation)
+        self.spinFrequency.setObjectName("spinFrequency")
+        self.spinFrequency.setRange(0.0, 1e6)
+        self.spinFrequency.setSingleStep(1.0)
+        self.formLayout.setWidget(1, QtWidgets.QFormLayout.FieldRole, self.spinFrequency)
+        self.labelAmplitude = QtWidgets.QLabel(DialogModulation)
+        self.labelAmplitude.setObjectName("labelAmplitude")
+        self.formLayout.setWidget(2, QtWidgets.QFormLayout.LabelRole, self.labelAmplitude)
+        self.spinAmplitude = QtWidgets.QDoubleSpinBox(DialogModulation)
+        self.spinAmplitude.setObjectName("spinAmplitude")
+        self.spinAmplitude.setRange(0.0, 100.0)
+        self.spinAmplitude.setSingleStep(0.1)
+        self.formLayout.setWidget(2, QtWidgets.QFormLayout.FieldRole, self.spinAmplitude)
+        self.verticalLayout.addLayout(self.formLayout)
+        self.buttonBox = QtWidgets.QDialogButtonBox(DialogModulation)
+        self.buttonBox.setOrientation(QtCore.Qt.Horizontal)
+        self.buttonBox.setStandardButtons(QtWidgets.QDialogButtonBox.Cancel | QtWidgets.QDialogButtonBox.Ok)
+        self.buttonBox.setObjectName("buttonBox")
+        self.verticalLayout.addWidget(self.buttonBox)
+        self.retranslateUi(DialogModulation)
+        self.buttonBox.accepted.connect(DialogModulation.accept)
+        self.buttonBox.rejected.connect(DialogModulation.reject)
+        QtCore.QMetaObject.connectSlotsByName(DialogModulation)
+
+    def retranslateUi(self, DialogModulation):
+        _translate = QtCore.QCoreApplication.translate
+        DialogModulation.setWindowTitle(_translate("DialogModulation", "Modulation Settings"))
+        self.labelModType.setText(_translate("DialogModulation", "Modulation Type:"))
+        self.comboModType.clear()
+        self.comboModType.addItems([
+            _translate("DialogModulation", "AM"),
+            _translate("DialogModulation", "FM"),
+            _translate("DialogModulation", "PM"),
+            _translate("DialogModulation", "QAM"),
+            _translate("DialogModulation", "PSK")
+        ])
+        self.labelFrequency.setText(_translate("DialogModulation", "Carrier Frequency (Hz):"))
+        self.labelAmplitude.setText(_translate("DialogModulation", "Carrier Amplitude:"))

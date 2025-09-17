@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_47.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_47,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_47.py,,,failed,AttributeError: type object 'API' has no attribute 'GITHUB_API_URL',7.345795165747404e-05
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_47.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_47,test_case_1,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_47.py,,xfail,xfailed,,0.00010383292101323605

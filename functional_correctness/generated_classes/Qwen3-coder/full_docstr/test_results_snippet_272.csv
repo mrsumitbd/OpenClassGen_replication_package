@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_272.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_272,test_case_0,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_272.py,,,failed,AttributeError: 'Enum' object has no attribute 'val_map',9.562494233250618e-05

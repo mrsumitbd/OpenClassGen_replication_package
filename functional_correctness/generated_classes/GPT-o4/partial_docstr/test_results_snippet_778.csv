@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_778.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_778,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_778.py,,,failed,TypeError: Path must be a string,7.154198829084635e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_778.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_778,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_778.py,,,failed,ValueError: Path must start with '$' or '$.',7.216597441583872e-05

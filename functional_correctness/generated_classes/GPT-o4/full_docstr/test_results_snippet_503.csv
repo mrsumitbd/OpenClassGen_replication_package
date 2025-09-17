@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_503.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_503,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_503.py,,,passed,,6.000010762363672e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_503.py::test_case_1,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_503,test_case_1,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_503.py,,xfail,xfailed,,5.837506614625454e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_503.py::test_case_2,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_503,test_case_2,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_503.py,,xfail,xfailed,,6.162503268569708e-05

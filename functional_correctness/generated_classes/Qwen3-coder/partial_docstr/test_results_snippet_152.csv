@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_152.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_152,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_152.py,,,failed,"assert {} is None
+ +  where {} = <snippet_152.ValidationErrorBuilder object at 0x106680b50>.errors",0.0001130829332396388
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_152.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_152,test_case_1,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_152.py,,,failed,"assert {} is None
+ +  where {} = <snippet_152.ValidationErrorBuilder object at 0x1066804d0>.errors",0.00010408402886241674
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_152.py::test_case_2,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_152,test_case_2,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_152.py,,xfail,xfailed,,8.487503509968519e-05
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_152.py::test_case_3,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_152,test_case_3,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_152.py,,xfail,xfailed,,7.591699250042439e-05

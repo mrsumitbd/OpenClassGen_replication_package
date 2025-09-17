@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_52.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_52,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_52.py,,,failed,NameError: name 'update_wrapper' is not defined,7.216690573841333e-05

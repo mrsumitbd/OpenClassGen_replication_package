@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_175.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_175,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_175.py,,,failed,AttributeError: type object 'GenericColumn' has no attribute 'col_type',8.470902685075998e-05
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_175.py::test_case_1,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_175,test_case_1,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_175.py,,xfail,xfailed,,8.775002788752317e-05

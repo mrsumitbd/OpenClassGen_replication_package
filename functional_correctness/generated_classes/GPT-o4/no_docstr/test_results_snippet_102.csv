@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_102.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_102,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_102.py,,,failed,TypeError: duration must be a number,7.020891644060612e-05

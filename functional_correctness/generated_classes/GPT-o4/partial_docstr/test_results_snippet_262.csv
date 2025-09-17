@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_262.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_262,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_262.py,,,failed,ValueError: Initial state '].{R)/+)%IvW\\' not in states,7.333396933972836e-05

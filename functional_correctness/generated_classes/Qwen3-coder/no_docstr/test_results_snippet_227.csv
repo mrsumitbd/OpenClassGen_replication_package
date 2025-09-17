@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_227.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_227,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_227.py,,,passed,,6.129196844995022e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_227.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_227,test_case_1,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_227.py,,,failed,"assert ""Installation..., message='')"" == ""Installation...!p3<CXiPOXn')""
+  
+  - InstallationResult(name='!p3<CXiPOXn')
+  + InstallationResult(name='!p3<CXiPOXn', success=False, message='')",0.00015720806550234556

@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_156.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_156,test_case_0,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_156.py,,xfail,xfailed,,7.033301517367363e-05

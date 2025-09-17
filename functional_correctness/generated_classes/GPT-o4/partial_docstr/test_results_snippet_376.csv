@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_376.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_376,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_376.py,,,passed,,5.9333979152143e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_376.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_376,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_376.py,,,failed,"AssertionError: assert 'WIC-1ENET Ethernet' == 'WIC-1ENET'
+  
+  - WIC-1ENET
+  + WIC-1ENET Ethernet",0.00014795793686062098

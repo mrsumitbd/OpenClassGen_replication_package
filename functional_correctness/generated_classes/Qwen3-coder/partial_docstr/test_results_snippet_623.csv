@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_623.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_623,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_623.py,,,failed,"AssertionError: assert 0 == ''
+ +  where 0 = <snippet_623.InstrumentField object at 0x1023ec7d0>.VolumeMultiple",0.0002829160075634718
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_623.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_623,test_case_1,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_623.py,,,failed,"AssertionError: assert 0 == ''
+ +  where 0 = <snippet_623.InstrumentField object at 0x1023fbf50>.VolumeMultiple",0.00012058299034833908

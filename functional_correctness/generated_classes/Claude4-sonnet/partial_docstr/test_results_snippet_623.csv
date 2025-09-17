@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_623.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_623,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_623.py,,,failed,"AssertionError: assert 0 == ''
+ +  where 0 = <snippet_623.InstrumentField object at 0x102273c90>.VolumeMultiple",0.0001509999856352806
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_623.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_623,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_623.py,,,failed,"AssertionError: assert 0 == ''
+ +  where 0 = <snippet_623.InstrumentField object at 0x1022d2710>.VolumeMultiple",0.00012912496458739042

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_487.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_487,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_487.py,,,failed,TypeError: account_id must be a string,6.912497337907553e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_487.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_487,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_487.py,,xfail,xfailed,,5.88749535381794e-05

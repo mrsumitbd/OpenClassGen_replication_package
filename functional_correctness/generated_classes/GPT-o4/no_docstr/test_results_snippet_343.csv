@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_343.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_343,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_343.py,,,failed,AttributeError: 'Algorithm' object has no attribute 'hash_type',6.962509360164404e-05
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_343.py::test_case_1,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_343,test_case_1,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_343.py,,xfail,xfailed,,6.616604514420033e-05

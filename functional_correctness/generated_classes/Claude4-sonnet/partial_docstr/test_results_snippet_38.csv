@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_38.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_38,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_38.py,,,passed,,0.0001313749235123396
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_38.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_38,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_38.py,,,failed,"assert ""Image(base_d..._path='True')"" == 'snippet_38.Image(True, True)'
+  
+  - snippet_38.Image(True, True)
+  + Image(base_dir='True', template_path='True')",0.00016070809215307236
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_38.py::test_case_2,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_38,test_case_2,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_38.py,,xfail,xfailed,,6.554194260388613e-05
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_38.py::test_case_3,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_38,test_case_3,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_38.py,,xfail,xfailed,,5.716690793633461e-05
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_38.py::test_case_4,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_38,test_case_4,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_38.py,,,passed,,5.0332979299128056e-05

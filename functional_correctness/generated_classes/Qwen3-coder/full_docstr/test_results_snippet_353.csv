@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_353.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_353,test_case_0,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_353.py,,xfail,failed,[XPASS(strict)] ,7.866602391004562e-05

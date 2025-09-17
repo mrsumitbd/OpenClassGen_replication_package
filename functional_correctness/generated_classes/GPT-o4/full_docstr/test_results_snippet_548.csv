@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_548.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_548,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_548.py,,xfail,failed,[XPASS(strict)] ,5.591695662587881e-05

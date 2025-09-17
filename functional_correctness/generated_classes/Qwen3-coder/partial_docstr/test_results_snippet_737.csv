@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_737.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_737,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_737.py,,,passed,,6.0333055444061756e-05
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_737.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_737,test_case_1,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_737.py,,,failed,"AssertionError: assert 'WIC-1T Serial' == 'WIC-1T'
+  
+  - WIC-1T
+  + WIC-1T Serial",0.00015891704242676497

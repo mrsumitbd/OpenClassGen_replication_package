@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_242.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_242,test_case_0,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_242.py,,,failed,"assert ""nl_msgtype(m...e='-3644.26')"" == ""<snippet_242...e='-3644.26'>""
+  
+  - <snippet_242.nl_msgtype mt_id=-3644.26 mt_act=-3644.26 mt_name='-3644.26'>
+  ? -------------          ^                                                 ^
+  + nl_msgtype(mt_id=-3644.26, mt_act=-3644.26, mt_name='-3644.26')
+  ?           ^              +                +                   ^",0.0003299579257145524

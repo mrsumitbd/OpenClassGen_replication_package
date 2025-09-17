@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_332.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_332,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_332.py,,,failed,AttributeError: type object 'StructuredDictMixin' has no attribute 'structure',7.424992509186268e-05
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_332.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_332,test_case_1,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_332.py,,xfail,xfailed,,6.312492769211531e-05

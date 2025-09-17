@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_362.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_362,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_362.py,,xfail,xfailed,,7.149996235966682e-05
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_362.py::test_case_1,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_362,test_case_1,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_362.py,,xfail,xfailed,,6.883300375193357e-05
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_362.py::test_case_2,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_362,test_case_2,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_362.py,,,failed,"assert 8 == 0
+ +  where 8 = len(<snippet_362.SymbolForm object at 0x1047ccad0>)",0.00012162502389401197

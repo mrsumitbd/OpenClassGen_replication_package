@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_598.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_598,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_598.py,,,failed,AttributeError: 'Configuration' object has no attribute 'settings',7.48330494388938e-05

@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_167.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_167,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_167.py,,,failed,AttributeError: 'TempDir' object has no attribute 'path',7.895799353718758e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_167.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_167,test_case_1,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_167.py,,xfail,xfailed,,6.195798050612211e-05

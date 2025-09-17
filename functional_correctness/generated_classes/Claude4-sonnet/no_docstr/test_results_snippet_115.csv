@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_115.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_115,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_115.py,,xfail,failed,[XPASS(strict)] ,0.00016850000247359276
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_115.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_115,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_115.py,,,failed,"assert ""Movie('%\x0c...0c\x0b0X\r}')"" == ""Movie(title=...\\x0b0X\\r}')""
+  
+  - Movie(title='%\x0c\x0b0X\r}', year=2382, director='%\x0c\x0b0X\r}')
+  + Movie('%
+  + 
+  + 0X
+  + }', 2382, '%
+  + 
+  + 0X
+  + }')",0.0001960420049726963

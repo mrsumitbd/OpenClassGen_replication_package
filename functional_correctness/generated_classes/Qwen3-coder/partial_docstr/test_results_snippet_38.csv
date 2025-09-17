@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_38.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_38,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_38.py,,,passed,,0.00013149995356798172
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_38.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_38,test_case_1,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_38.py,,,failed,"AssertionError: assert 'Image(base_d...te_path=True)' == 'snippet_38.Image(True, True)'
+  
+  - snippet_38.Image(True, True)
+  + Image(base_dir=True, template_path=True)",0.00015870900824666023
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_38.py::test_case_2,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_38,test_case_2,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_38.py,,xfail,xfailed,,6.158300675451756e-05
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_38.py::test_case_3,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_38,test_case_3,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_38.py,,xfail,failed,[XPASS(strict)] ,5.04170311614871e-05
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_38.py::test_case_4,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_38,test_case_4,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_38.py,,,passed,,5.1458016969263554e-05

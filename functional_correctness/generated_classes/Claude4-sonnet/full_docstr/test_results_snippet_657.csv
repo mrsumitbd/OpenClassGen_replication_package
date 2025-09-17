@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_657.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_657,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_657.py,,,passed,,5.916692316532135e-05
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_657.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_657,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_657.py,,xfail,xfailed,,0.00014066696166992188
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_657.py::test_case_2,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_657,test_case_2,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_657.py,,,failed,assert 5740354900026072187 == -5024857729396546773,0.00010641699191182852
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_657.py::test_case_3,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_657,test_case_3,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_657.py,,,failed,"AssertionError: assert 'Carriage()' == 'Carriage'
+  
+  - Carriage
+  + Carriage()
+  ?         ++",0.00015412503853440285

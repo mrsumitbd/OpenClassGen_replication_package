@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_103.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_103,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_103.py,,,failed,"AssertionError: assert ' ()\nWebsite...olume (BTC): ' == 'Coin: [/] - '
+  
+  - Coin: [/] - 
+  +  ()
+  + Website: 
+  + Price (BTC): 
+  + Volume (BTC):",0.00017729098908603191
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_103.py::test_case_1,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_103,test_case_1,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_103.py,,,failed,"assert ""Coin(id='', ...olume_btc=())"" == 'Coin'
+  
+  - Coin
+  + Coin(id='', name='', website='', price_btc='', volume_btc=())",0.0001385409850627184

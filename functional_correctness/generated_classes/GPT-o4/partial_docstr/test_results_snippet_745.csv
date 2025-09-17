@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_745.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_745,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_745.py,,xfail,xfailed,,6.65419502183795e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_745.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_745,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_745.py,,,failed,"TypeError: FastqEntry.__init__() missing 3 required positional arguments: 'header', 'sequence', and 'quality'",6.770796608179808e-05

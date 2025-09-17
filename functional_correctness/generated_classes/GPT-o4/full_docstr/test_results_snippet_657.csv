@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_657.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_657,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_657.py,,,passed,,6.395811215043068e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_657.py::test_case_1,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_657,test_case_1,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_657.py,,xfail,xfailed,,0.00016254198271781206
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_657.py::test_case_2,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_657,test_case_2,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_657.py,,,failed,assert -1057208347853955266 == -5024857729396546773,0.00010120903607457876
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_657.py::test_case_3,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_657,test_case_3,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_657.py,,,failed,"AssertionError: assert 'Carriage()' == 'Carriage'
+  
+  - Carriage
+  + Carriage()
+  ?         ++",0.0001426249509677291

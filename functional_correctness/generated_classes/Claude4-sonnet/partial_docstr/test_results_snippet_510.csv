@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_510.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_510,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_510.py,,xfail,failed,[XPASS(strict)] ,0.02730170905124396

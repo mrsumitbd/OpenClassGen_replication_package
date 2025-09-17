@@ -1,0 +1,17 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_586,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py,,,failed,"AssertionError: assert '<get_all_functions_args>' == 'get_all_functions_args()'
+  
+  - get_all_functions_args()
+  ?                       ^^
+  + <get_all_functions_args>
+  ? +                      ^",0.0001923340605571866
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_586,test_case_1,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py,,,passed,,5.9750047512352467e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py::test_case_2,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_586,test_case_2,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py,,,passed,,6.145902443677187e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py::test_case_3,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_586,test_case_3,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py,,,passed,,4.7042034566402435e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py::test_case_4,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_586,test_case_4,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py,,,passed,,4.624994471669197e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py::test_case_5,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_586,test_case_5,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_586.py,,,failed,"AssertionError: assert '<get_all_functions_args>' == 'get_all_functions_args()'
+  
+  - get_all_functions_args()
+  ?                       ^^
+  + <get_all_functions_args>
+  ? +                      ^",0.0001605829456821084

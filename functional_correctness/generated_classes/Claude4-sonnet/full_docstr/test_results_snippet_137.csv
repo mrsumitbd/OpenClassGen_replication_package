@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_137.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_137,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_137.py,,xfail,xfailed,,7.02079851180315e-05
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_137.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_137,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_137.py,,,failed,"AssertionError: assert None == '/bin/bash'
+ +  where None = <snippet_137.ScriptExecutor object at 0x10224a550>.default_shell",0.00011499994434416294
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_137.py::test_case_2,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_137,test_case_2,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_137.py,,xfail,xfailed,,9.079207666218281e-05

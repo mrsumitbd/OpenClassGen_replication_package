@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_347.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_347,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_347.py,,,failed,Failed: DID NOT RAISE <class 'ImportError'>,8.358398918062449e-05

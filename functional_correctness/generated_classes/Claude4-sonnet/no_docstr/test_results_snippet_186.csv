@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_186.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_186,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_186.py,,,failed,"assert ""_new_initializer(b'\\xe6')"" == ""<new b'\\xe6'>""
+  
+  - <new b'\xe6'>
+  + _new_initializer(b'\xe6')",0.00015604204963892698
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_186.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_186,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_186.py,,xfail,xfailed,,6.66249543428421e-05

@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_137.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_137,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_137.py,,xfail,xfailed,,7.308297790586948e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_137.py::test_case_1,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_137,test_case_1,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_137.py,,,failed,"AssertionError: assert None == '/bin/bash'
+ +  where None = <snippet_137.ScriptExecutor object at 0x106288890>.default_shell",0.00011754198931157589
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_137.py::test_case_2,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_137,test_case_2,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_137.py,,xfail,xfailed,,9.933405090123415e-05

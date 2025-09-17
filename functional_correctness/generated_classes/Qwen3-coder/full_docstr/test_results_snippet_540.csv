@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_540.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_540,test_case_0,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_540.py,,,failed,NameError: name 'np' is not defined,7.516692858189344e-05
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_540.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_540,test_case_1,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_540.py,,xfail,xfailed,,6.920890882611275e-05

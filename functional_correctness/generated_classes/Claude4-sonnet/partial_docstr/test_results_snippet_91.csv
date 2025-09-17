@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_91.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_91,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_91.py,,,failed,"AssertionError: assert 'Title: -565....Description: ' == -565.1 ± 5.7e+00
+  
+  comparison failed
+  Obtained: Title: -565.1\nLink: -565.1\nDescription: 
+  Expected: -565.1 ± 5.7e+00",0.00019995903130620718

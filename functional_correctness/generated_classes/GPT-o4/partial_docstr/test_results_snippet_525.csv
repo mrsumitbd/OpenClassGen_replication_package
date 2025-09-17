@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_525.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_525,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_525.py,,xfail,xfailed,,7.074989844113588e-05

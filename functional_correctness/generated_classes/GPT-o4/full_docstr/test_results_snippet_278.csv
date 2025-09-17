@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_278.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_278,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_278.py,,,failed,AttributeError: 'BaseApi' object has no attribute 'endpoint',6.908306386321783e-05

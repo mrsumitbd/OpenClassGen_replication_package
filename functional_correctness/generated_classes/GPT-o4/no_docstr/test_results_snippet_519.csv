@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_519.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_519,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_519.py,,,failed,NameError: name 'Path' is not defined,8.483300916850567e-05

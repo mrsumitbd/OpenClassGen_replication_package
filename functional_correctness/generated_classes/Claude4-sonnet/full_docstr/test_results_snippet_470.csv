@@ -1,0 +1,13 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_470,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00017262494657188654
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_470,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00015374994836747646
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py::test_case_2,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_470,test_case_2,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py,,xfail,xfailed,,0.00012812495697289705
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py::test_case_3,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_470,test_case_3,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py,,,failed,"assert [('&', '&amp;...'"", '&apos;')] == (('&', '&amp;...'"", '&apos;'))
+  
+  Use -v to get more diff",0.00012808397877961397
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py::test_case_4,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_470,test_case_4,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py,,xfail,xfailed,,0.00012070802040398121
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py::test_case_5,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_470,test_case_5,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_470.py,,xfail,xfailed,,0.00011791696306318045

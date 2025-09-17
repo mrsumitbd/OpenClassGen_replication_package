@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_737.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_737,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_737.py,,,passed,,5.8999983593821526e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_737.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_737,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_737.py,,,failed,"AssertionError: assert 'WIC-1T Serial' == 'WIC-1T'
+  
+  - WIC-1T
+  + WIC-1T Serial",0.00013495900202542543

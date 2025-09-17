@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_684.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_684,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_684.py,,,failed,NameError: name 'deque' is not defined,7.116596680134535e-05
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_684.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_684,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_684.py,,xfail,xfailed,,6.037496495991945e-05

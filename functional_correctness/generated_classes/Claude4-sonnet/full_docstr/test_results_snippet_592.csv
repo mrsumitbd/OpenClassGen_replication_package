@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_592.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_592,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_592.py,,xfail,xfailed,,6.937491707503796e-05
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_592.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_592,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_592.py,,,failed,AttributeError: 'int' object has no attribute 'compile',7.033301517367363e-05

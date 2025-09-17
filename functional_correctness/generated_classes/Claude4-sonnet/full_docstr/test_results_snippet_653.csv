@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_653.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_653,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_653.py,,xfail,xfailed,,7.141695823520422e-05
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_653.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_653,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_653.py,,,failed,AttributeError: 'FitnessTransformation' object has no attribute 'inner_fitness',6.29170099273324e-05

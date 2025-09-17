@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_612.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_612,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_612.py,,,failed,NameError: name 'os' is not defined,7.254094816744328e-05

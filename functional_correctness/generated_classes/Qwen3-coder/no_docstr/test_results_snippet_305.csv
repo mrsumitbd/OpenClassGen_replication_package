@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_305.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_305,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_305.py,,xfail,xfailed,,6.733404006808996e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_305.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_305,test_case_1,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_305.py,,,failed,AttributeError: 'int' object has no attribute '__name__',6.787502206861973e-05

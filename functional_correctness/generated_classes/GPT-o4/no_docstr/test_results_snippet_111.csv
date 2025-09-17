@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_111.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_111,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_111.py,,,failed,TypeError: unhashable type: 'dict',9.741703979671001e-05
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_111.py::test_case_1,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_111,test_case_1,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_111.py,,xfail,xfailed,,6.604206282645464e-05

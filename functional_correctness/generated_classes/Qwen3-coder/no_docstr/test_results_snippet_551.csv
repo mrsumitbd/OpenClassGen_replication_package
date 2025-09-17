@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_551.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_551,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_551.py,,,passed,,7.812504190951586e-05

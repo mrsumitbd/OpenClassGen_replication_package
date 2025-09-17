@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_493.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_493,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_493.py,,xfail,xfailed,,0.00013570801820605993
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_493.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_493,test_case_1,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_493.py,,,failed,"assert {} == []
+  
+  Use -v to get more diff",0.00011716701555997133
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_493.py::test_case_2,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_493,test_case_2,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_493.py,,xfail,xfailed,,0.00010629207827150822

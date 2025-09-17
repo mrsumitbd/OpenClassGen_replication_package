@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_53.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_53,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_53.py,,,failed,NameError: name 'sys' is not defined,7.758301217108965e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_53.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_53,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_53.py,,xfail,xfailed,,6.408302579075098e-05

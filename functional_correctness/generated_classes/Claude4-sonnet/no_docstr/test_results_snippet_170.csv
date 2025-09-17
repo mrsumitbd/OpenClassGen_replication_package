@@ -1,0 +1,8 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_170.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_170,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_170.py,,xfail,xfailed,,0.0001401250483468175
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_170.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_170,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_170.py,,,passed,,6.04171073064208e-05
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_170.py::test_case_2,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_170,test_case_2,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_170.py,,,failed,"AssertionError: assert '<NotSet>' == '<Value not set>'
+  
+  - <Value not set>
+  + <NotSet>",0.00013937498442828655
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_170.py::test_case_3,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_170,test_case_3,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_170.py,,xfail,xfailed,,0.00016391708049923182

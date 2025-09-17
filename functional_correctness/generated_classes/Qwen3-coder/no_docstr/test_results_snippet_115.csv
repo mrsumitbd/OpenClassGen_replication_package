@@ -1,0 +1,12 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_115.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_115,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_115.py,,xfail,failed,[XPASS(strict)] ,5.879194941371679e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_115.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_115,test_case_1,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_115.py,,,failed,"assert ""Movie(title=...0c\x0b0X\r}')"" == ""Movie(title=...\\x0b0X\\r}')""
+  
+  - Movie(title='%\x0c\x0b0X\r}', year=2382, director='%\x0c\x0b0X\r}')
+  + Movie(title='%
+  + 
+  + 0X
+  + }', year=2382, director='%
+  + 
+  + 0X
+  + }')",0.00017687503714114428

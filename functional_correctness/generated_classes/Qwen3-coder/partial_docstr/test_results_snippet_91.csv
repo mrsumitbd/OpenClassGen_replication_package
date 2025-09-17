@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_91.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_91,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_91.py,,,failed,"AssertionError: assert '-565.1\n-565.1\n' == -565.1 ± 5.7e+00
+  
+  comparison failed
+  Obtained: -565.1\n-565.1\n
+  Expected: -565.1 ± 5.7e+00",0.0002737919567152858

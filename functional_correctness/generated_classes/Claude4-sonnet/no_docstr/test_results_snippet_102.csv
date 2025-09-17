@@ -1,0 +1,11 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_102.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_102,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_102.py,,,failed,"AssertionError: assert 'Phase(durati...aseDef=None))' == 'Phase:\ndura...Def: None\n\n'
+  
+  + Phase(duration=Phase(duration=None, duration1=None, duration2=None, phaseDef=None), duration1=Phase(duration=None, duration1=None, duration2=None, phaseDef=None), duration2=None, phaseDef=Phase(duration=None, duration1=None, duration2=None, phaseDef=None))
+  - Phase:
+  - duration: Phase:
+  - duration: None
+  - minDuration: None
+  - maxDuration: None...
+  
+  ...Full output truncated (15 lines hidden), use '-vv' to show",0.00021591701079159975

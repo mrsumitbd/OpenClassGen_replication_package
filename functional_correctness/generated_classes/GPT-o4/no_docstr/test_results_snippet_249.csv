@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_249.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_249,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_249.py,,xfail,xfailed,,6.645801477134228e-05
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_249.py::test_case_1,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_249,test_case_1,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_249.py,,,failed,AttributeError: type object 'WorkItem' has no attribute 'args',6.666698027402163e-05

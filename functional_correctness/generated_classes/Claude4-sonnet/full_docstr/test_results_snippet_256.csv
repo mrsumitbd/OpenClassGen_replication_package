@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_256.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_256,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_256.py,,xfail,failed,[XPASS(strict)] ,5.845795385539532e-05
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_256.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_256,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_256.py,,xfail,failed,[XPASS(strict)] ,4.924996756017208e-05

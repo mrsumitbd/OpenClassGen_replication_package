@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_354.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_354,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_354.py,,,failed,AttributeError: 'bool' object has no attribute 'read',7.716694381088018e-05

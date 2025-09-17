@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_523.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_523,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_523.py,,,failed,"AssertionError: assert 1 == ('user', 'no user (use USER firstly)')
+ +  where 1 = <class 'snippet_523.ConnectionConditions'>.user_required
+ +    where <class 'snippet_523.ConnectionConditions'> = module_0.ConnectionConditions",0.000139000010676682
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_523.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_523,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_523.py,,xfail,xfailed,,0.00011337501928210258

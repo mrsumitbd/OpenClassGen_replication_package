@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_448.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_448,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_448.py,,,failed,"ValueError: Unsupported loss function 'FLf5""av935/sL;
+q'. Valid options: {'cross_entropy', 'mse', 'softmax_cross_entropy'}",8.29590717330575e-05

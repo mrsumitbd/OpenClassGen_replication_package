@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_592.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_592,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_592.py,,xfail,xfailed,,6.554194260388613e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_592.py::test_case_1,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_592,test_case_1,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_592.py,,,failed,AttributeError: 'int' object has no attribute 'compile',6.587500683963299e-05

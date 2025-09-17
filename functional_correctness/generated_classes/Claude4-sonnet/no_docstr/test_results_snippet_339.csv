@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_339.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_339,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_339.py,,,failed,AttributeError: 'LDAPServerSettings' object has no attribute 'gssapi_factory',7.524993270635605e-05

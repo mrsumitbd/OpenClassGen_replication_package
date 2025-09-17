@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_65.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_65,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_65.py,,,passed,,0.00012833403889089823
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_65.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_65,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_65.py,,,failed,"AssertionError: assert 'Base handler...e any sources' == 'Wrong source type'
+  
+  - Wrong source type
+  + Base handler cannot handle any sources",0.00014037499204277992
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_65.py::test_case_2,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_65,test_case_2,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_65.py,,xfail,xfailed,,6.229197606444359e-05
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_65.py::test_case_3,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_65,test_case_3,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_65.py,,xfail,failed,[XPASS(strict)] ,6.070896051824093e-05
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_65.py::test_case_4,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_65,test_case_4,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_65.py,,xfail,xfailed,,5.52500132471323e-05

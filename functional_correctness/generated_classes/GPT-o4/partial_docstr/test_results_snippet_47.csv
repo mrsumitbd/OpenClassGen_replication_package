@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_47.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_47,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_47.py,,,failed,ValueError: Either token or password must be provided,8.200004231184721e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_47.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_47,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_47.py,,xfail,xfailed,,7.141695823520422e-05

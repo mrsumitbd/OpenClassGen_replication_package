@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_455.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_455,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_455.py,,,failed,AttributeError: type object 'FieldMetaType' has no attribute 'string',7.879105396568775e-05

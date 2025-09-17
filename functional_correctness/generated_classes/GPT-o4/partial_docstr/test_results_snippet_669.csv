@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_669.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_669,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_669.py,,,failed,AttributeError: type object 'FieldMetaSpecial' has no attribute 'none',7.537496276199818e-05

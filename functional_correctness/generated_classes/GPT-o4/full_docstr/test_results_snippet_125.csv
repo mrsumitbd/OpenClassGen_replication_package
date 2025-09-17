@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_125.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_125,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_125.py,,,failed,AttributeError: type object 'BaseEntrySearch' has no attribute 'pattern',7.06670107319951e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_125.py::test_case_1,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_125,test_case_1,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_125.py,,xfail,xfailed,,6.316707003861666e-05

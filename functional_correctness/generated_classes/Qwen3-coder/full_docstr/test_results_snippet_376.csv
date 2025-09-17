@@ -1,0 +1,18 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_376,test_case_0,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py,,,failed,"assert ""{'source_arn...: 'Lhf=K%z2'}"" == ""\n\t{'source...: 'Lhf=K%z2'}""
+  
+  - 
+  - 	{'source_arn': None, 'destination_arn': 'Lhf=K%z2', 'association_type': 'Lhf=K%z2'}
+  ? -
+  + {'source_arn': None, 'destination_arn': 'Lhf=K%z2', 'association_type': 'Lhf=K%z2'}",0.0003040831070393324
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_376,test_case_1,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py,,,passed,,6.783404387533665e-05
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py::test_case_2,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_376,test_case_2,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py,,,passed,,5.337491165846586e-05
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py::test_case_3,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_376,test_case_3,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py,,,failed,assert 1398802708976178459 == -7443120729902446468,0.00011958298273384571
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py::test_case_4,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_376,test_case_4,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py,,,failed,assert 4761274654677827381 == 2967842945485182615,0.00010220799595117569
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py::test_case_5,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_376,test_case_5,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py,,,passed,,6.095797289162874e-05
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py::test_case_6,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_376,test_case_6,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_376.py,,,failed,"assert ""{'source_arn..._type': None}"" == ""\n\t{'source..._type': None}""
+  
+  - 
+  - 	{'source_arn': None, 'destination_arn': None, 'association_type': None}
+  ? -
+  + {'source_arn': None, 'destination_arn': None, 'association_type': None}",0.00023562507703900337

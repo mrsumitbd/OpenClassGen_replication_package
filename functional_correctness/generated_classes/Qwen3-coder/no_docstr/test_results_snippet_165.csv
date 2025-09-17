@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_165.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_165,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_165.py,,,failed,NameError: name 'os' is not defined,7.216702215373516e-05

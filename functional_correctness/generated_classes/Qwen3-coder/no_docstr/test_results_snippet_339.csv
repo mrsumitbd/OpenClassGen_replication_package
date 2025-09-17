@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_339.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_339,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_339.py,,,failed,AttributeError: 'LDAPServerSettings' object has no attribute 'gssapi_factory',9.625009261071682e-05

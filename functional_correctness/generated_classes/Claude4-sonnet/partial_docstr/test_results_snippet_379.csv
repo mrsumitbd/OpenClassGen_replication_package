@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_379.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_379,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_379.py,,,passed,,6.17089681327343e-05

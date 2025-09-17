@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_103.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_103,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_103.py,,,failed,"AssertionError: assert 'Coin:  ()' == 'Coin: [/] - '
+  
+  - Coin: [/] - 
+  + Coin:  ()",0.0001525840489193797
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_103.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_103,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_103.py,,,failed,"assert ""Coin(id='', ...ume_btc='()')"" == 'Coin'
+  
+  - Coin
+  + Coin(id='', name='', website='', price_btc='', volume_btc='()')",0.00014104100409895182

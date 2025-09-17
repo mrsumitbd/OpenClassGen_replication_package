@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_115.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_115,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_115.py,,xfail,failed,[XPASS(strict)] ,5.470798350870609e-05
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_115.py::test_case_1,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_115,test_case_1,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_115.py,,,passed,,5.4042087867856026e-05

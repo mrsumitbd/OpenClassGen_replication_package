@@ -1,0 +1,8 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_537.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_537,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_537.py,,,failed,"AssertionError: assert [{'echo': Tru...'prompt': ''}] == [('', True), ('', True)]
+  
+  At index 0 diff: [0m{[33m'[39;49;00m[33mprompt[39;49;00m[33m'[39;49;00m: [33m'[39;49;00m[33m'[39;49;00m, [33m'[39;49;00m[33mecho[39;49;00m[33m'[39;49;00m: [94mTrue[39;49;00m}[90m[39;49;00m != [0m([33m'[39;49;00m[33m'[39;49;00m, [94mTrue[39;49;00m)[90m[39;49;00m
+  Use -v to get more diff",0.017081084079109132
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_537.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_537,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_537.py,,,passed,,5.849997978657484e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_537.py::test_case_2,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_537,test_case_2,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_537.py,,xfail,xfailed,,5.4582953453063965e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_537.py::test_case_3,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_537,test_case_3,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_537.py,,xfail,xfailed,,5.295802839100361e-05

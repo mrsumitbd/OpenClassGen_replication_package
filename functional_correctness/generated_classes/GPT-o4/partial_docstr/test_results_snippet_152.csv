@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_152.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_152,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_152.py,,,failed,"assert {} is None
+ +  where {} = <snippet_152.ValidationErrorBuilder object at 0x106c48c90>.errors",0.00011345907114446163
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_152.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_152,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_152.py,,,failed,"assert {} is None
+ +  where {} = <snippet_152.ValidationErrorBuilder object at 0x106c4f550>.errors",0.00011304195504635572
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_152.py::test_case_2,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_152,test_case_2,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_152.py,,xfail,xfailed,,9.312503971159458e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_152.py::test_case_3,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_152,test_case_3,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_152.py,,xfail,xfailed,,7.675006054341793e-05

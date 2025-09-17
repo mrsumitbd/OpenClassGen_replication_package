@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_9.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_9,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_9.py,,,passed,,9.233294986188412e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_9.py::test_case_1,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_9,test_case_1,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_9.py,,,failed,TypeError: 'NoneType' object is not iterable,6.704102270305157e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_9.py::test_case_2,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_9,test_case_2,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_9.py,,xfail,xfailed,,6.324995774775743e-05

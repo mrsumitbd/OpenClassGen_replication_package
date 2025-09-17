@@ -1,0 +1,8 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_697.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_697,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_697.py,,,failed,"assert {} is None
+ +  where {} = <snippet_697.GeodeticStrain object at 0x1045bf6d0>.data",0.0001847919775173068
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_697.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_697,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_697.py,,,failed,"assert {} is None
+ +  where {} = <snippet_697.GeodeticStrain object at 0x1050d1fd0>.data",0.00010070903226733208
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_697.py::test_case_2,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_697,test_case_2,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_697.py,,,failed,"assert {} is None
+ +  where {} = <snippet_697.GeodeticStrain object at 0x10509bdd0>.data",9.108299855142832e-05
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_697.py::test_case_3,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_697,test_case_3,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_697.py,,xfail,xfailed,,7.837498560547829e-05

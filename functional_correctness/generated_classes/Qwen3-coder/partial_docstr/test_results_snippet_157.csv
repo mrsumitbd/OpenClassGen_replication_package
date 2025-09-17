@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_157.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_157,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_157.py,,,failed,TypeError: NamespaceStatus.__init__() missing 1 required positional argument: 'phase',7.574993651360273e-05

@@ -1,0 +1,18 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_376,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py,,,failed,"assert ""{'source_arn...: 'Lhf=K%z2'}"" == ""\n\t{'source...: 'Lhf=K%z2'}""
+  
+  - 
+  - 	{'source_arn': None, 'destination_arn': 'Lhf=K%z2', 'association_type': 'Lhf=K%z2'}
+  ? -
+  + {'source_arn': None, 'destination_arn': 'Lhf=K%z2', 'association_type': 'Lhf=K%z2'}",0.0002777079353109002
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_376,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py,,,passed,,6.150000263005495e-05
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py::test_case_2,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_376,test_case_2,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py,,,passed,,5.029106978327036e-05
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py::test_case_3,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_376,test_case_3,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py,,,failed,assert 2514172631324767510 == -7443120729902446468,0.00010083394590765238
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py::test_case_4,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_376,test_case_4,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py,,,failed,assert 944577855165590022 == 2967842945485182615,8.899997919797897e-05
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py::test_case_5,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_376,test_case_5,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py,,,passed,,6.075005512684584e-05
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py::test_case_6,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_376,test_case_6,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_376.py,,,failed,"assert ""{'source_arn..._type': None}"" == ""\n\t{'source..._type': None}""
+  
+  - 
+  - 	{'source_arn': None, 'destination_arn': None, 'association_type': None}
+  ? -
+  + {'source_arn': None, 'destination_arn': None, 'association_type': None}",0.00022183405235409737

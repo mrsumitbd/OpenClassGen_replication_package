@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_669.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.partial_docstr.test_snippet_669,test_case_0,functional_correctness/generated_classes/Qwen3-coder/partial_docstr/test_snippet_669.py,,,failed,AttributeError: type object 'FieldMetaSpecial' has no attribute 'none',7.320800796151161e-05

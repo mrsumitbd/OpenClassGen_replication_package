@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_798.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_798,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_798.py,,xfail,xfailed,,7.50409672036767e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_798.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_798,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_798.py,,,passed,,5.7292054407298565e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_798.py::test_case_2,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_798,test_case_2,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_798.py,,xfail,xfailed,,6.387510802596807e-05

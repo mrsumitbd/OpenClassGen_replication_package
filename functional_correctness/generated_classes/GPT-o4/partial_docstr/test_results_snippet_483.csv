@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_483.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_483,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_483.py,,,failed,NameError: name 'np' is not defined,7.070798892527819e-05

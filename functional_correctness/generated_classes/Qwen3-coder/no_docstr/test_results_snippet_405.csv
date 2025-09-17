@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_405.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_405,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_405.py,,,failed,"AssertionError: assert 'Event(start_...nd_mark=None)' == 'Event()'
+  
+  - Event()
+  + Event(start_mark=None, end_mark=None)",0.00016379100270569324

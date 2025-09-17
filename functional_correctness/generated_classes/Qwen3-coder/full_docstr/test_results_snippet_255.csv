@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_255.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_255,test_case_0,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_255.py,,,failed,AttributeError: type object 'Plot_Data' has no attribute 'count',7.270893547683954e-05
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_255.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_255,test_case_1,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_255.py,,xfail,xfailed,,6.462493911385536e-05

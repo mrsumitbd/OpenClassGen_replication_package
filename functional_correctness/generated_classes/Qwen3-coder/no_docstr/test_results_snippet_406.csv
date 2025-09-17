@@ -1,0 +1,20 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_406,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py,,,failed,"assert {} == []
+  
+  Use -v to get more diff",0.0001368329394608736
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_406,test_case_1,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py,,xfail,xfailed,,0.00011375010944902897
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py::test_case_2,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_406,test_case_2,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py,,xfail,xfailed,,9.424996096640825e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py::test_case_3,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_406,test_case_3,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py,,,failed,"assert {} == []
+  
+  Use -v to get more diff",9.350001346319914e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py::test_case_4,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_406,test_case_4,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py,,xfail,xfailed,,0.00011137500405311584
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py::test_case_5,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_406,test_case_5,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py,,,failed,"assert {} == []
+  
+  Use -v to get more diff",8.816597983241081e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py::test_case_6,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_406,test_case_6,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py,,,failed,"assert {} == []
+  
+  Use -v to get more diff",8.487503509968519e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py::test_case_7,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_406,test_case_7,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py,,xfail,xfailed,,9.637500625103712e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py::test_case_8,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_406,test_case_8,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_406.py,,,failed,"assert {} == []
+  
+  Use -v to get more diff",8.087500464171171e-05

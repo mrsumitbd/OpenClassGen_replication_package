@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_737.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_737,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_737.py,,,passed,,6.187497638165951e-05
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_737.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_737,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_737.py,,,passed,,5.200004670768976e-05

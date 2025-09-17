@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_572.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_572,test_case_0,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_572.py,,,passed,,6.108300294727087e-05
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_572.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_572,test_case_1,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_572.py,,,failed,"AssertionError: assert '<!p3<CXiPOXn>' == '!p3<CXiPOXn'
+  
+  - !p3<CXiPOXn
+  + <!p3<CXiPOXn>
+  ? +           +",0.00017129199113696814

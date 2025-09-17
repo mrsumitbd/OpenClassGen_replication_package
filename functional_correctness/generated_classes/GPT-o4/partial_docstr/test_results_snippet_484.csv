@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_484.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_484,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_484.py,,,failed,NameError: name 'boto3' is not defined,6.858294364064932e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_484.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_484,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_484.py,,xfail,xfailed,,7.233303040266037e-05

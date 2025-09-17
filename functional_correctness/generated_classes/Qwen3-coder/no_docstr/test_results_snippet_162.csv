@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_162.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_162,test_case_0,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_162.py,,xfail,xfailed,,7.137504871934652e-05
+functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_162.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.no_docstr.test_snippet_162,test_case_1,functional_correctness/generated_classes/Qwen3-coder/no_docstr/test_snippet_162.py,,,failed,AttributeError: type object 'RmcpMsg' has no attribute 'RMCP_HEADER_FORMAT',6.71660527586937e-05

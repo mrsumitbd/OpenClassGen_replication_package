@@ -1,0 +1,31 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_376,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py,,,failed,"assert ""{\n    'sour...'Lhf=K%z2'\n}"" == ""\n\t{'source...: 'Lhf=K%z2'}""
+  
+  - 
+  - 	{'source_arn': None, 'destination_arn': 'Lhf=K%z2', 'association_type': 'Lhf=K%z2'}
+  + {
+  +     'source_arn': 'None',
+  +     'destination_arn': 'Lhf=K%z2',
+  +     'association_type': 'Lhf=K%z2'
+  + }",0.00018212490249425173
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py::test_case_1,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_376,test_case_1,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py,,,passed,,6.3000014051795e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py::test_case_2,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_376,test_case_2,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py,,,passed,,5.2458024583756924e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py::test_case_3,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_376,test_case_3,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py,,,failed,assert -8530800621343819134 == -7443120729902446468,0.00010041706264019012
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py::test_case_4,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_376,test_case_4,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py,,,failed,"assert ""{\n    'sour..._Zp<:O^fA'\n}"" == ""{'source_arn...F]_Zp<:O^fA'}""
+  
+  - {'source_arn': 1775, 'destination_arn': '', 'association_type': '$F]_Zp<:O^fA'}
+  + {
+  +     'source_arn': '1775',
+  +     'destination_arn': '',
+  +     'association_type': '$F]_Zp<:O^fA'
+  + }",0.0001332499086856842
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py::test_case_5,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_376,test_case_5,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py,,,passed,,5.891697946935892e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py::test_case_6,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_376,test_case_6,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_376.py,,,failed,"assert ""{\n    'sour...e': 'None'\n}"" == ""\n\t{'source..._type': None}""
+  
+  - 
+  - 	{'source_arn': None, 'destination_arn': None, 'association_type': None}
+  + {
+  +     'source_arn': 'None',
+  +     'destination_arn': 'None',
+  +     'association_type': 'None'
+  + }",0.00013516691979020834

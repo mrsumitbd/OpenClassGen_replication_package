@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_160.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_160,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_160.py,,xfail,failed,[XPASS(strict)] ,5.533394869416952e-05
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_160.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_160,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_160.py,,,passed,,5.4292031563818455e-05

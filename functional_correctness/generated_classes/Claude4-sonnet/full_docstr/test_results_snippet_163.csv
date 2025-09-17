@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_163.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.full_docstr.test_snippet_163,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/full_docstr/test_snippet_163.py,,xfail,xfailed,,6.733404006808996e-05

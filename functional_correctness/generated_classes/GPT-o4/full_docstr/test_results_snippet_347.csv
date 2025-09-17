@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_347.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_347,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_347.py,,,failed,Failed: DID NOT RAISE <class 'ImportError'>,7.762503810226917e-05

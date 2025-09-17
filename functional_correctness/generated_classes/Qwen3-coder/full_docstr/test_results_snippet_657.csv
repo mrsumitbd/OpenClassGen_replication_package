@@ -1,0 +1,9 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_657.py::test_case_0,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_657,test_case_0,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_657.py,,,passed,,6.137497257441282e-05
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_657.py::test_case_1,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_657,test_case_1,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_657.py,,xfail,xfailed,,0.00013820803724229336
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_657.py::test_case_2,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_657,test_case_2,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_657.py,,,failed,assert 323935400 == -5024857729396546773,0.00011212495155632496
+functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_657.py::test_case_3,functional_correctness.generated_classes.Qwen3-coder.full_docstr.test_snippet_657,test_case_3,functional_correctness/generated_classes/Qwen3-coder/full_docstr/test_snippet_657.py,,,failed,"AssertionError: assert 'Carriage()' == 'Carriage'
+  
+  - Carriage
+  + Carriage()
+  ?         ++",0.00016316701658070087

@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_641.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_641,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_641.py,,,failed,"TypeError: seconds must be int or float, not set",8.14999220892787e-05
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_641.py::test_case_1,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_641,test_case_1,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_641.py,,xfail,xfailed,,7.30839092284441e-05
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_641.py::test_case_2,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_641,test_case_2,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_641.py,,xfail,xfailed,,6.033293902873993e-05

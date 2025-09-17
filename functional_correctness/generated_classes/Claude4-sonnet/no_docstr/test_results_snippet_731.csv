@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_731.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_731,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_731.py,,,passed,,5.841709207743406e-05
+functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_731.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.no_docstr.test_snippet_731,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/no_docstr/test_snippet_731.py,,,failed,"AssertionError: assert 'builtins.str' == 'snippet_731._missing_ctypes'
+  
+  - snippet_731._missing_ctypes
+  + builtins.str",0.0001431250711902976

@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_236.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_236,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_236.py,,,failed,AttributeError: 'MaximalMatches' object has no attribute 'max_match_list',7.433397695422173e-05

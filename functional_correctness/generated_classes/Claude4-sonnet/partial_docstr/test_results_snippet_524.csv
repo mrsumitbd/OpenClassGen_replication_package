@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_524.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_524,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_524.py,,,failed,AttributeError: 'Adder' object has no attribute 'x',7.23750563338399e-05
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_524.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_524,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_524.py,,xfail,xfailed,,6.266694981604815e-05

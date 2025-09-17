@@ -1,0 +1,5 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_523.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_523,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_523.py,,,failed,"AssertionError: assert 'user' == ('user', 'no user (use USER firstly)')
+ +  where 'user' = <class 'snippet_523.ConnectionConditions'>.user_required
+ +    where <class 'snippet_523.ConnectionConditions'> = module_0.ConnectionConditions",0.00013108307030051947
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_523.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_523,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_523.py,,xfail,xfailed,,0.00011000002268701792

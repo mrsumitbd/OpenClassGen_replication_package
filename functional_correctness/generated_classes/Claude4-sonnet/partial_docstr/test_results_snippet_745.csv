@@ -1,0 +1,4 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_745.py::test_case_0,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_745,test_case_0,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_745.py,,xfail,xfailed,,0.00010829197708517313
+functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_745.py::test_case_1,functional_correctness.generated_classes.Claude4-sonnet.partial_docstr.test_snippet_745,test_case_1,functional_correctness/generated_classes/Claude4-sonnet/partial_docstr/test_snippet_745.py,,,failed,"AssertionError: assert '' is None
+ +  where '' = <snippet_745.FastqEntry object at 0x10619e590>.id",9.900005534291267e-05

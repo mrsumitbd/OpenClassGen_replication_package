@@ -1,0 +1,2 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_46.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_46,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_46.py,,,passed,,0.00010320800356566906

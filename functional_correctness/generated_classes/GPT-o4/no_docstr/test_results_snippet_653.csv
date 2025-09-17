@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_653.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_653,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_653.py,,,failed,TypeError: gate must be a callable or a string name,0.00013779103755950928
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_653.py::test_case_1,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_653,test_case_1,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_653.py,,xfail,xfailed,,7.254199590533972e-05

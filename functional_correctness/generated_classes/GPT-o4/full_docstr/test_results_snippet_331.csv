@@ -1,0 +1,13 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py::test_case_0,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_331,test_case_0,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py,,xfail,failed,[XPASS(strict)] ,0.00010091695003211498
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py::test_case_1,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_331,test_case_1,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py,,,failed,"assert 'KDNode at di... data {False}' == ""({False}: [L...', R:'None'])""
+  
+  - ({False}: [L:'None', R:'None'])
+  + KDNode at dim None with data {False}",0.00017450004816055298
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py::test_case_2,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_331,test_case_2,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py,,xfail,xfailed,,0.00015495799016207457
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py::test_case_3,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_331,test_case_3,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py,,,passed,,5.054101347923279e-05
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py::test_case_4,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_331,test_case_4,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py,,,failed,"assert 'node(data=No...e, disc=None)' == ""(None: [L:'None', R:'None'])""
+  
+  - (None: [L:'None', R:'None'])
+  + node(data=None, payload=None, disc=None)",0.00013229099567979574
+functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py::test_case_5,functional_correctness.generated_classes.GPT-o4.full_docstr.test_snippet_331,test_case_5,functional_correctness/generated_classes/GPT-o4/full_docstr/test_snippet_331.py,,xfail,xfailed,,0.00013212498743087053

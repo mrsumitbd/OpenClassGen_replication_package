@@ -1,0 +1,3 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_297.py::test_case_0,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_297,test_case_0,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_297.py,,,failed,AttributeError: 'bytes' object has no attribute 'user',7.229205220937729e-05
+functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_297.py::test_case_1,functional_correctness.generated_classes.GPT-o4.no_docstr.test_snippet_297,test_case_1,functional_correctness/generated_classes/GPT-o4/no_docstr/test_snippet_297.py,,xfail,xfailed,,6.162491627037525e-05

@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_239.py::test_case_0,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_239,test_case_0,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_239.py,,,passed,,6.008404307067394e-05
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_239.py::test_case_1,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_239,test_case_1,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_239.py,,,failed,"AssertionError: assert True == b'cD'
+ +  where True = <snippet_239.toggled_prefetching object at 0x104b94d50>.enabled",0.00011595804244279861
+functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_239.py::test_case_2,functional_correctness.generated_classes.GPT-o4.partial_docstr.test_snippet_239,test_case_2,functional_correctness/generated_classes/GPT-o4/partial_docstr/test_snippet_239.py,,,failed,"assert False is None
+ +  where False = <snippet_239.toggled_prefetching object at 0x103fd2d90>.enabled",0.00010075001046061516

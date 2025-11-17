@@ -1,5 +1,5 @@
 # OpenClassGen
-A Large-scale Class-level Dataset for Code Generation with LLMs (Replication package)
+A Large-Scale Dataset from Open-Source Projects for Class-Level Code Generation (Replication package)
 
 ### 📘 Data Dictionary for the Curated Class-level Dataset
 
